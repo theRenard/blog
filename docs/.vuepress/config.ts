@@ -1,7 +1,7 @@
 import type { UserConfig, DefaultThemeOptions } from 'vuepress'
 
 const config: UserConfig<DefaultThemeOptions> = {
-  base: '/Blog/',
+  base: '/blog/',
   lang: 'en-US',
   title: 'Hello VuePress',
   description: 'Just playing around',
